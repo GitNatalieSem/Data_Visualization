@@ -22,5 +22,5 @@ which use Matplotlib and Plotly libraries, including:
 
 - Weather visualizations
   - Using Matplotlib, weather data from gc.ca, temperature highs and lows, is visualized:
-  <img src = "https://github.com/GitNatalieSem/Data_Visualization/blob/main/Data_visualization/Weather_visualizations/vancouver_temperature_highs_lows_2022.png">
+  <img src = "https://github.com/GitNatalieSem/Data_Visualization/blob/main/Data_visualization/Weather_visualizations/vancouver_temperature_highs_lows_2022.png" width="500" height="360" border="10">
   
