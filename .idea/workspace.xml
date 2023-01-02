@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="20f0f550-c879-4a90-8dfc-534f6ca454eb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Data_visualization/Dice_visualizations/d6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Data_visualization/Dice_visualizations/d6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_visualization/Dice_visualizations/d6_d10.html" beforeDir="false" afterPath="$PROJECT_DIR$/Data_visualization/Dice_visualizations/d6_d10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_visualization/Dice_visualizations/d6_d6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Data_visualization/Dice_visualizations/d6_d6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_visualization/Dice_visualizations/die_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_visualization/Dice_visualizations/die_visual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_visualization/Dice_visualizations/different_sided_dice_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_visualization/Dice_visualizations/different_sided_dice_visual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_visualization/Earthquake_json_visualizations/global_earthquakes.html" beforeDir="false" afterPath="$PROJECT_DIR$/Data_visualization/Earthquake_json_visualizations/global_earthquakes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_visualization/RandomWalk_visualizations/rw_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_visualization/RandomWalk_visualizations/rw_visual.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Jn0IKBdynLGDjClVk5DU261mTX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20f0f550-c879-4a90-8dfc-534f6ca454eb" name="Changes" comment="" />
+      <created>1672698458861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672698458861</updated>
+    </task>
+    <servers />
+  </component>
+</project>

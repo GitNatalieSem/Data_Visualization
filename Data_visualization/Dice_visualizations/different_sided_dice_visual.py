@@ -2,7 +2,7 @@
 from plotly.graph_objs import Bar, Layout
 from plotly import offline
 
-from Dice_visualizations.die import Die
+from die import Die
 
 # Create a D6.
 die = Die()
