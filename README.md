@@ -10,6 +10,7 @@ which use Matplotlib and Plotly libraries, including:
 - Dice roll simulations and Random Walk visualizations (useful for modelling phenomena such as random movements of particles).
     - Using Plotly, data sets that represent rolling dice are simulated
     - Using Matplotlib, a visually appealing representation of random walk data is simulated
+    <img src = "https://github.com/GitNatalieSem/Data_Visualization/blob/main/Data_visualization/RandomWalk_visualizations/random_walk.png" width="500" height="360" border="10">
 
 - Earthquake visualizations
   - Using Plotly, earthquake data (in a json format) from the United States Geological Survey is mapped based on long and lat using Scattergeo
@@ -18,7 +19,7 @@ which use Matplotlib and Plotly libraries, including:
     - hover functionality that shows the precise location of earthquake activity
   Global earthquake activity over a 30 day span (Dec 2022), which shows Earth's tectonic plate boundaries, is visualized:
   <br>
-  <img src = "https://github.com/GitNatalieSem/Data_Visualization/blob/main/Data_visualization/Earthquake_json_visualizations/Global_earthquake_plot.bmp">
+  <img src = "https://github.com/GitNatalieSem/Data_Visualization/blob/main/Data_visualization/Earthquake_json_visualizations/Global_earthquake_plot.bmp" border="10">
 
 - Weather visualizations
   - Using Matplotlib, weather data from gc.ca, temperature highs and lows, is visualized:
