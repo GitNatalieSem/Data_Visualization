@@ -1,4 +1,4 @@
-# Data_Visualization
+# Data_Visualization_Projects
 
 The <b>Data_Visualization</b> repository contains several data visualization python programs,
 which use Matplotlib and Plotly libraries, including:
